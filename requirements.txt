@@ -1,6 +1,6 @@
-tensorflow==1.15.2
-keras==2.2.5
+tensorflow==2.3.0
 flask
 opencv-python
-flask
+flask_cors
+flask_wtf
 numpy
